@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package oopexercise1;
 
 /**
  *
  * @author acer
  */
 public class BicycleRegistration {
-   public static void main(String [] args) {
+  public static void main(String [] args) {
 		Bicycle bike1, bike2, bike3,chill;
 		String owner1, owner2, tagNo, owner;
 		
@@ -37,5 +36,6 @@ public class BicycleRegistration {
 		System.out.println(owner2 + " also owns a bicycle.");
 		System.out.println(tagNo);
 		System.out.println(owner + " " +tagNo);
-	} 
-}
+	}
+}  
+
